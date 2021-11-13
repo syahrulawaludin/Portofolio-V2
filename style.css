@@ -1,0 +1,80 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2 rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;700;800;900&display=swap");
+
+* {
+  font-family: "Inter", sans-serif !important;
+}
+h2 {
+  text-align: center;
+}
+
+body .font-red-hat-display {
+  font-family: "Red Hat Display", sans-serif !important;
+}
+
+body footer {
+  background: #313e60;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+body footer {
+  background: #0f0f0f;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+body footer .logo {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  color: #fafafd;
+}
+
+body footer .social-media {
+  margin-top: 55px;
+}
+
+body footer .copyright {
+  font-family: "Red Hat Display", sans-serif !important;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 135%;
+  color: #fafafd;
+  margin-top: 20px;
+}
+
+body footer .nav-footer p {
+  font-weight: 700 !important;
+  font-family: "Red Hat Display", sans-serif !important;
+  font-size: 20px;
+  line-height: 135%;
+  color: #fafafd;
+}
+
+body footer .nav-footer a {
+  font-weight: 400 !important;
+  font-family: "Red Hat Display", sans-serif !important;
+  font-size: 20px;
+  line-height: 135%;
+  color: #fafafd;
+}
+
+body footer li {
+  margin-bottom: 16px;
+}
+section {
+  padding-top: 5rem;
+}
